@@ -1,0 +1,3 @@
+*.pdf
+tmp_trainer/
+.ipynb_checkpoints/
